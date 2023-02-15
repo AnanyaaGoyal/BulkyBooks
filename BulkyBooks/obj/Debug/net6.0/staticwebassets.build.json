@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "voItG5qTcTM9dVNgGmGWwcTfmBWuPJr44+4QdX/muFM=",
+  "Hash": "IPW5M9OkcUfP2YVO0jXdqNmORU/lvsVpJLwjiuc4rgQ=",
   "Source": "BulkyBooks",
   "BasePath": "_content/BulkyBooks",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\pct152\\Desktop\\BulkyBooksSolution\\BulkyBooks\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BulkyBooks.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\pct152\\Desktop\\BulkyBooksSolution\\BulkyBooks\\wwwroot\\css\\BootswatchTheme.css",
+      "SourceId": "BulkyBooks",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pct152\\Desktop\\BulkyBooksSolution\\BulkyBooks\\wwwroot\\",
+      "BasePath": "_content/BulkyBooks",
+      "RelativePath": "css/BootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\BootswatchTheme.css"
     },
     {
       "Identity": "C:\\Users\\pct152\\Desktop\\BulkyBooksSolution\\BulkyBooks\\wwwroot\\css\\site.css",
